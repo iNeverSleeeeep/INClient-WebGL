@@ -1,3 +1,3 @@
 # INClient-WebGL
 
-[玩一下](https://ineversleeeeep.github.io/INClient-WebGL/)
+跑不起来 有动态库的问题 Unity的bug
